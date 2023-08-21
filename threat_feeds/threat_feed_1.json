@@ -1,0 +1,16 @@
+{
+  "source": "DarkNet Intel Group",
+  "date": "2022-07-15",
+  "threats": [
+    {
+      "type": "Stolen Data Sale",
+      "description": "A threat actor is offering a database containing user credentials for various online platforms.",
+      "target": "Various online platforms"
+    },
+    {
+      "type": "Malware Distribution",
+      "description": "Distribution of a new strain of ransomware through a compromised gaming forum.",
+      "target": "Gaming community"
+    }
+  ]
+}
