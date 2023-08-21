@@ -1,0 +1,16 @@
+{
+  "source": "DarkWeb Sentinel",
+  "date": "2022-10-05",
+  "threats": [
+    {
+      "type": "Social Engineering Campaign",
+      "description": "Threat actor offering social engineering services for targeted attacks, including CEO fraud and BEC scams.",
+      "target": "Corporate executives"
+    },
+    {
+      "type": "Exploit Sale",
+      "description": "Advertisement for the sale of an undisclosed software vulnerability with potential for remote code execution.",
+      "target": "Software applications"
+    }
+  ]
+}
