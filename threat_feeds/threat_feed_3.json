@@ -1,0 +1,16 @@
+{
+  "source": "CyberWatcher Group",
+  "date": "2022-09-10",
+  "threats": [
+    {
+      "type": "Ransomware Attack",
+      "description": "Announcement of a new ransomware variant targeting healthcare organizations with a focus on patient data.",
+      "target": "Healthcare sector"
+    },
+    {
+      "type": "Carding Forum Activity",
+      "description": "Forum discussions about new methods for credit card fraud and the sale of stolen card data.",
+      "target": "Payment card data"
+    }
+  ]
+}
