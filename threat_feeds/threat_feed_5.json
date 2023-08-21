@@ -1,0 +1,16 @@
+{
+  "source": "BlackMarket Insights",
+  "date": "2022-11-20",
+  "threats": [
+    {
+      "type": "Credential Stuffing Tools",
+      "description": "Sale of automated credential stuffing tools designed to test stolen login credentials on various platforms.",
+      "target": "Online accounts"
+    },
+    {
+      "type": "Cryptocurrency Scam",
+      "description": "Reports of a new Ponzi scheme promising high returns on investment in a fake cryptocurrency.",
+      "target": "Cryptocurrency investors"
+    }
+  ]
+}
