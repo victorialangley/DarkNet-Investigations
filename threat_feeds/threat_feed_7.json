@@ -1,0 +1,16 @@
+{
+  "source": "Underground Intelligence",
+  "date": "2023-01-25",
+  "threats": [
+    {
+      "type": "Advanced Phishing Kit",
+      "description": "Sale of an advanced phishing kit that mimics popular online services to steal login credentials.",
+      "target": "Various online services"
+    },
+    {
+      "type": "Fake Document Factory",
+      "description": "Advertisements for a service providing counterfeit documents, such as passports and IDs, for illicit purposes.",
+      "target": "Criminal activities"
+    }
+  ]
+}
