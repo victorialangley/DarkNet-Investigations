@@ -1,0 +1,16 @@
+{
+  "source": "Underground Market Watch",
+  "date": "2022-08-02",
+  "threats": [
+    {
+      "type": "Phishing Campaign",
+      "description": "Phishing emails impersonating a popular cryptocurrency exchange to steal login credentials.",
+      "target": "Cryptocurrency users"
+    },
+    {
+      "type": "Fraudulent Auctions",
+      "description": "Multiple fraudulent auction listings for non-existent luxury items, aiming to scam buyers.",
+      "target": "Online shoppers"
+    }
+  ]
+}
